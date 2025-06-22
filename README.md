@@ -1,15 +1,20 @@
 # Chatbot
 Transfer learnt model built on a pretrained LLM such as GPT-2
-| **Task**                                     | **Comments**                                                                                          | **Status**    |
-|----------------------------------------------|------------------------------------------------------------------------------------------------------|-----------------|----------------------------|
-| **Preprocessing**                            | Handle emojis and punctuations POS tagging,Tokenization, padding, and dataset creation for GPT-2 fine-tuning.                                    | Done            |              |
-| **Training**                                 | Three epochs of fine-tuning GPT-2 with proper optimizer.  | Done            |     
-| **Evaluation (ROUGE-L, BERT Scores)**        | ROUGE-L and BERT scores computed for validation set predictions against ground truth responses.       | Done            | 
-| **Interpretation using LIME**                | Placeholder steps for LIME text explanations.                                     | Not applicable         |              |
-| **1st round of tuning** | Fine-tuned learning rate from 5e-5 to 1e-4 for better model stability. | Done            |
-| **2nd round of tuning** | Adjusted training loop for augmented dataset to enhance training diversity.                          | Done            |
-| **Final AUC Value**             | Achieved AUC value of 1.0 shows Strong distinguishability.                               | Done            |
-| **Next Steps Recommendations**               | Evaluate on larger datasets, analyze model outputs, experiment with hyperparameters, integrate LIME/SHAP, use user feedback. | Done         |
+## ✅ Project Progress Overview
+
+This section outlines key tasks and milestones for the GPT-2 fine-tuning project.
+
+| **Task**                             | **Comments**                                                                                         | **Status**     |
+|--------------------------------------|-------------------------------------------------------------------------------------------------------|----------------|
+| **Preprocessing**                    | Handled emojis, punctuations, POS tagging, tokenization, padding, and dataset creation for GPT-2 fine-tuning. | ✅ Done         |
+| **Training**                         | Completed 3 epochs of fine-tuning GPT-2 with appropriate optimizer and learning strategy.             | ✅ Done         |
+| **Evaluation (ROUGE-L, BERT Scores)**| Computed ROUGE-L and BERT scores on validation set for generated vs. ground truth responses.          | ✅ Done         |
+| **Interpretation using LIME**        | LIME text explanation not applicable for this task.                                                   | ❌ Not applicable |
+| **1st Round of Tuning**              | Adjusted learning rate from 5e-5 to 1e-4 to improve model stability and convergence.                   | ✅ Done         |
+| **2nd Round of Tuning**              | Modified training loop with an augmented dataset for improved generalization.                         | ✅ Done         |
+| **Final AUC Value**                  | Achieved AUC of **1.0**, indicating strong distinguishability between outputs.                         | ✅ Done         |
+| **Next Steps Recommendations**       | Evaluate on larger datasets, analyze outputs, test hyperparameter variations, integrate LIME/SHAP, collect user feedback. | ✅ Done         |
+
 
 
 ## Features
