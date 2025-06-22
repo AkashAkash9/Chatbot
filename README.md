@@ -110,7 +110,12 @@ tokenizer.save_pretrained("gpt2_finetuned") [ File too big size 474mb]
    streamlit run app.py
 
 ### Video link:
-https://azureloyalistcollege-my.sharepoint.com/:v:/g/personal/akash9_loyalistcollege_com/EcDwkvCHhwdIhTb12xK8e8oBgUjrZrf3Ksh5Oyd7UuLn6Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=RfrSh3 
+https://drive.google.com/file/d/1QpuZF-zIldkKAFfY1fcl4CJZmBDDN6pA/view?usp=sharing 
+
+### LinkedIn:
+https://www.linkedin.com/in/akash-rajput-1a25b52a0/
+
+Feel free to contact!!!!
 
 
 
